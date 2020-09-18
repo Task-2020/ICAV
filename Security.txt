@@ -1,0 +1,54 @@
+SECURITY
+---------
+
+1. What is DDoS attack? How do you deal with it?
+
+A distributed denial-of-service (DDoS) attack is an attack in which multiple compromised computer systems attack a target, 
+such as a server, website or other network resource, and cause a denial of service for users of the targeted resource.
+1. Develop a Denial of Service Response Plan.
+2. Secure Your Network Infrastructure
+3. Practice Basic Network Security
+4. Maintain Strong Network Architecture
+5. Leverage the Cloud
+6. Understand the Warning Signs
+7. Consider DDoS-as-a-Service.
+
+2. What are the benefits of having Policy management?
+
+1.Avoid Fines and Penalties
+2.Protects Your Business Reputation
+3.Enhances Your Data Management Capabilities
+4.Puts You in Good Company
+5.Yields Insights That Promote Operational Benefits
+6.Supports Access Controls and Accountability
+
+3. How HTTPS is different from HTTP?
+
+HTTP lacks security mechanism to encrypt the data whereas HTTPS provides SSL or TLS Digital Certificate to secure the communication between server and client.
+HTTP operates at Application Layer whereas HTTPS operates at Transport Layer.
+HTTP by default operates on port 80 whereas HTTPS by default operates on port 443.
+HTTP transfers data in plain text while HTTPS transfers data in cipher text (encrypt text).
+HTTP is fast as compared to HTTPS because HTTPS consumes computation power to encrypt the communication channel.
+
+4. What TCP and UDP vulnerabilities are you familiar with?
+
+IP and Source Routing
+Web Application and Browser Security Weaknesses
+Cross-site Scripting
+DNS Protocol Attacks
+
+5. Explain OAuth ?
+
+OAuth doesn’t share password data but instead uses authorization tokens to prove an identity between consumers and service providers. 
+OAuth is an authentication protocol that allows you to approve one application interacting with another on your behalf without giving away your password.
+
+6. What types of firewalls are there?
+
+Packet-Filtering Firewalls
+Circuit-Level Gateways
+Stateful Inspection Firewalls
+Proxy Firewalls (Application-Level Gateways/Cloud Firewalls)
+Software Firewalls
+Cloud Firewalls
+
+

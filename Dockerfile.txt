@@ -1,0 +1,4 @@
+FROM tomcat:latest
+COPY ./task.war  /usr/local/tomcat/webapps
+
+CMD ["catalina.sh", "run"]

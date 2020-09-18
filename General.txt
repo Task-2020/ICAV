@@ -1,0 +1,56 @@
+1. General
+----------
+1. What is the role of AWS in DevOps?
+Identity Access Management Roles:
+IAM role is an IAM identity is similar to IAM User with permission policies that determine
+what the identity can and cannot do in AWS
+
+2.How will you approach a project that needs to implement DevOps?
+
+*Evaluate the need of implement the DevOps Practice
+*Break the organizational silos and encourage collaboration
+*Start with Small and then scale up
+*Automate the Process and Select the tools are compatible with each other
+*Continuos Integration and Continuos Delivery/Deployment
+*Arrange Performance reviews for team and an individual
+*Integrate and deliver continuously
+*Acheive better results with monitoring and feedback 
+
+3. Mention some of the core benefits of DevOps.?
+
+*Agility
+*Alignment
+*Risk Mitigation
+*Innovation
+*velocity
+*Constant Re-Engineering
+*Productivity and Cost reduction
+
+4. What are the different phases in DevOps?
+
+Plan
+Code
+Build
+Test
+Release
+Deploy
+Operate
+Monitor
+
+5. Explain the concept of branching in Git.?
+
+Branch in Git is similar to the branch of a tree. 
+Analogically, a tree branch is attached to the central part of the tree called the trunk.
+While branches can generate and fall off, 
+the trunk remains compact and is the only part by which we can say the tree is alive and standing.
+Similarly, a branch in Git is a way to keep developing and coding a new feature or 
+modification to the software and still not affecting the main part of the project. 
+We can also say that branches create another line of development in the project
+
+6. What is a merge conflict in Git, and how can it be resolved?
+
+A merge conflict is an event that occurs when Git is unable to automatically resolve differences in code between two commits.
+When all the changes in the code occur on different lines or in different files, 
+Git will successfully merge commits without your help.However, when there are conflicting changes on the same lines,
+ a “merge conflict” occurs because Git doesn’t know which code to keep and which to discard.
+ 
